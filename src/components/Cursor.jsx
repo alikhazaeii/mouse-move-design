@@ -15,7 +15,7 @@ export default function Cursor({hover}) {
     // console.log(clientX , clientY);
     mouse.current ={
       x:clientX,
-      y:clientY
+      y:clientY,
     }
     
   }
